@@ -20,7 +20,7 @@ import HeroSection from './components/HeroSection.vue'
 import VisionMission from './components/VisionMission.vue'
 import Services from './components/Services.vue'
 import Portfolio from './components/Portfolio.vue'
-import Team from './components/Team.vue'
+// import Team from './components/Team.vue'
 import Values from './components/Values.vue'
 import Contact from './components/Contact.vue'
 </script>

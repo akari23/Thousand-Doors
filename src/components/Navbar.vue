@@ -10,7 +10,7 @@
         <li><a href="#home" class="hover:text-orange-500 transition">Home</a></li>
         <li><a href="#services" class="hover:text-orange-500 transition">Services</a></li>
         <li><a href="#portfolio" class="hover:text-orange-500 transition">Portfolio</a></li>
-        <li><a href="#team" class="hover:text-orange-500 transition">Team</a></li>
+        <!-- <li><a href="#team" class="hover:text-orange-500 transition">Team</a></li> -->
         <li><a href="#values" class="hover:text-orange-500 transition">Values</a></li>
         <li><a href="#contact" class="hover:text-orange-500 transition">Contact</a></li>
       </ul>

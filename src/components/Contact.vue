@@ -3,18 +3,12 @@
     <h2 class="text-3xl font-bold mb-8">Kontak Kami</h2>
     <div class="space-y-4 max-w-md mx-auto">
       <p class="text-gray-300">
-        Email:
-        <a href="mailto:info@thousanddoors.com" class="underline hover:text-orange-500 transition"
-          >info@thousanddoors.com</a
-        >
-      </p>
-      <p class="text-gray-300">
         Website:
         <a
-          href="https://thousanddoors.com"
+          href="https://akari23.github.io/Thousand-Doors/"
           target="_blank"
           class="underline hover:text-orange-500 transition"
-          >thousanddoors.com</a
+          >https://akari23.github.io/Thousand-Doors</a
         >
       </p>
       <p class="text-gray-300">
