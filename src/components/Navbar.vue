@@ -62,14 +62,14 @@
               >Portfolio</a
             >
           </li>
-          <li>
+          <!-- <li>
             <a
               href="#team"
               @click="isMenuOpen = false"
               class="hover:text-orange-500 transition block py-2"
               >Team</a
             >
-          </li>
+          </li> -->
           <li>
             <a
               href="#values"

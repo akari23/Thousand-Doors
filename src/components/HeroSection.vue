@@ -3,7 +3,7 @@
     id="home"
     class="relative min-h-screen bg-cover bg-center bg-no-repeat flex items-center justify-center text-center text-white overflow-hidden"
     style="
-      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/logo.jpeg');
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('logo.jpeg');
     "
   >
     <div class="absolute inset-0 bg-black opacity-50"></div>
